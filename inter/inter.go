@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 	"time"
 )
 
@@ -89,7 +90,7 @@ func (ic *InterClient) applyDefaultHeaders(req *http.Request) {
 	req.Header.Add("x-origin-device", "WEB")
 }
 
-func (ic *InterClient) GetTransactions() {
+func (ic *InterClient) GetTransactions() []Transaction {
 	now := time.Now()
 	initialDate := now.AddDate(0, 0, -30).Format(DEFAULT_DATE_FORMAT)
 	endDate := now.Format(DEFAULT_DATE_FORMAT)
@@ -121,5 +122,27 @@ func (ic *InterClient) GetTransactions() {
 		log.Fatal(fmt.Errorf("%w, error unmarshaling GetTransactions body", err))
 	}
 
-	fmt.Println(transactions)
+	return transactions
+}
+
+func GetLocalCurrentTransactions() []Transaction {
+	localTxnsJSON, err := os.Open("./data/current-transactions.json")
+	if err != nil {
+		log.Fatal("could not open local transactions json file")
+	}
+	defer localTxnsJSON.Close()
+
+	var transactions []Transaction
+
+	jsonData, err := ioutil.ReadAll(localTxnsJSON)
+	if err != nil {
+		log.Fatal("could not read from local transactions json")
+	}
+
+	err = json.Unmarshal(jsonData, &transactions)
+	if err != nil {
+		log.Fatal(fmt.Errorf("%w, error unmarshaling local transactions json data", err))
+	}
+
+	return transactions
 }

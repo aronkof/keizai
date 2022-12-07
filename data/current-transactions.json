@@ -1,0 +1,245 @@
+[
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"TED RECEBIDA - 260 1 74393643 ARON KOFFLER",
+      "tipo":"C",
+      "codHist":"07067",
+      "moeda":"R$",
+      "valor":4518.20,
+      "saldo":4520.73
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento NETFLIX.COM SAO PAULO BRA",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":55.90,
+      "saldo":4464.83
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"TED RECEBIDA - 260 1 3542230 LAURA DE SOUZA ALVES PEREIRA",
+      "tipo":"C",
+      "codHist":"07067",
+      "moeda":"R$",
+      "valor":3500.00,
+      "saldo":7964.83
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"DEBITO ELETROPAULO - 100198082840",
+      "tipo":"D",
+      "codHist":"07993",
+      "moeda":"R$",
+      "valor":102.92,
+      "saldo":7861.91
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"PAGAMENTO DE TITULO - pagamento",
+      "tipo":"D",
+      "codHist":"07059",
+      "moeda":"R$",
+      "valor":4521.49,
+      "saldo":3340.42
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"PIX ENVIADO - Cp :90400888-MARIA TELMA COSTA PEREIRA DA SILVA",
+      "tipo":"D",
+      "codHist":"08066",
+      "moeda":"R$",
+      "valor":200.00,
+      "saldo":3140.42
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"PIX ENVIADO - Cp :18236120-Aron Koffler",
+      "tipo":"D",
+      "codHist":"08066",
+      "moeda":"R$",
+      "valor":131.99,
+      "saldo":3008.43
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"PIX ENVIADO - Cp :37880206-J C Fujarra Alojamento De Animais Dom",
+      "tipo":"D",
+      "codHist":"08066",
+      "moeda":"R$",
+      "valor":390.50,
+      "saldo":2617.93
+   },
+   {
+      "dataLancamento":"03/06/2022",
+      "descricao":"PAGAMENTO DE TITULO - condominio ",
+      "tipo":"D",
+      "codHist":"07059",
+      "moeda":"R$",
+      "valor":1348.00,
+      "saldo":1269.93
+   },
+   {
+      "dataLancamento":"06/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento PAG*PetzAvAngelica SAO PAULO BR",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":327.00,
+      "saldo":942.93
+   },
+   {
+      "dataLancamento":"07/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.13,
+      "saldo":943.06
+   },
+   {
+      "dataLancamento":"07/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento SACOLAO SAUDE STA CECI SAO PAUL",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":89.00,
+      "saldo":854.06
+   },
+   {
+      "dataLancamento":"08/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.81,
+      "saldo":854.87
+   },
+   {
+      "dataLancamento":"09/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.22,
+      "saldo":855.09
+   },
+   {
+      "dataLancamento":"13/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento MAGIC ANIMAL SAO PAULO BRA",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":66.00,
+      "saldo":789.09
+   },
+   {
+      "dataLancamento":"14/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.16,
+      "saldo":789.25
+   },
+   {
+      "dataLancamento":"15/06/2022",
+      "descricao":"PIX ENVIADO - Cp :90400888-MARIA TELMA COSTA PEREIRA DA SILVA",
+      "tipo":"D",
+      "codHist":"08066",
+      "moeda":"R$",
+      "valor":200.00,
+      "saldo":589.25
+   },
+   {
+      "dataLancamento":"20/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento PAG*PetzAvAngelica SAO PAULO BR",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":36.00,
+      "saldo":553.25
+   },
+   {
+      "dataLancamento":"20/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento COCO VERDE SAO PAULO BRA",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":28.00,
+      "saldo":525.25
+   },
+   {
+      "dataLancamento":"22/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.16,
+      "saldo":525.41
+   },
+   {
+      "dataLancamento":"22/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento PAG*PetzAvAngelica SAO PAULO BR",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":84.00,
+      "saldo":441.41
+   },
+   {
+      "dataLancamento":"23/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento EBANX*SPOTIFY CURITIBA BRA",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":24.90,
+      "saldo":416.51
+   },
+   {
+      "dataLancamento":"24/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.21,
+      "saldo":416.72
+   },
+   {
+      "dataLancamento":"27/06/2022",
+      "descricao":"DEB AUTOMATICO COMGAS - 46625607",
+      "tipo":"D",
+      "codHist":"07897",
+      "moeda":"R$",
+      "valor":337.42,
+      "saldo":79.30
+   },
+   {
+      "dataLancamento":"27/06/2022",
+      "descricao":"COMPRA CREDITO DEBITADO - No estabelecimento BOLO DA MADRE SANTA C Sao Paulo",
+      "tipo":"D",
+      "codHist":"07994",
+      "moeda":"R$",
+      "valor":37.00,
+      "saldo":42.30
+   },
+   {
+      "dataLancamento":"27/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.06,
+      "saldo":42.36
+   },
+   {
+      "dataLancamento":"28/06/2022",
+      "descricao":"CASHBACK CREDITO DEBITADO - ",
+      "tipo":"C",
+      "codHist":"08112",
+      "moeda":"R$",
+      "valor":0.09,
+      "saldo":42.45
+   }
+]
